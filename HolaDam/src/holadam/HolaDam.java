@@ -19,5 +19,7 @@ public class HolaDam {
        System.out.println("Cambio del Segundo Programador"); 
         
     }
-    
+    public static void sumar1(int n){
+        n++;
+    }
 }
